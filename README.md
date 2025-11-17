@@ -34,3 +34,8 @@ School level, College level Computer science students
 Lab practical exams
 Viva preparation
 Understanding basic sorting concepts
+
+For a detailed visual explanation and implementation walkthrough of these sorting algorithms (Bubble Sort, Selection Sort, and Insertion Sort) in C programming, check out this helpful YouTube video:
+
+Watch Full Video : (https://youtu.be/yLOPDJr0E1Y)
+Subscribe for more : https://youtube.com/@cswithut?si=s6f9BmP09ZwBYKfg
