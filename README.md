@@ -5,7 +5,8 @@ This repository contains simple implementations of three fundamental sorting alg
 1. **Bubble Sort**
 2. **Selection Sort**
 3. **Insertion Sort**
-   
+
+For a detailed visual explanation and implementation walkthrough of these sorting algorithms (Bubble Sort, Selection Sort, and Insertion Sort) in C programming, check out this helpful YouTube video:
 Watch Full Video : (https://youtu.be/yLOPDJr0E1Y)
 Subscribe for more : https://youtube.com/@cswithut?si=s6f9BmP09ZwBYKfg
 
@@ -45,6 +46,5 @@ Lab practical exams
 Viva preparation
 Understanding basic sorting concepts
 
-For a detailed visual explanation and implementation walkthrough of these sorting algorithms (Bubble Sort, Selection Sort, and Insertion Sort) in C programming, check out this helpful YouTube video:
 
 
