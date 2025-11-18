@@ -29,15 +29,18 @@ Subscribe for more : https://youtube.com/@cswithut?si=s6f9BmP09ZwBYKfg
 ```bash
 # For Bubble Sort
 gcc "bubble sort.c" -o bubble
-./bubble
+./bubble          # Linux/macOS
+bubble.exe        # Windows
 
 # For Selection Sort
 gcc "selection sort.c" -o selection
-./selection
+./selection          # Linux/macOS
+selection.exe        # Windows
 
 # For Insertion Sort
 gcc "insertion sort.c" -o insertion
-./insertion
+./insertion          # Linux/macOS
+insertion.exe        # Window
 
 
 Ideal for
